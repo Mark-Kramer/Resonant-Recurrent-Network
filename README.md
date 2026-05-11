@@ -12,7 +12,7 @@ The primary notebooks to estimate and apply the models are here:
 | --- | --- |
 | [Run the Resonant Recurrent Network (RRN)](./RRN_Results.ipynb) | Reproduce the **RRN** MNIST analysis (slow) and paper figures (fast) |
 | [Run LSTM](./LSTM_Results.ipynb) | Reproduce the **LSTM** MNIST analysis (slow) |
-| [Run Standard RNN](./RNN_Results.ipynb) | Reproduce the **Standard RNN** MNIST analysis (slow) |
+| [Run Standard RNN](./Standard_RNN_Results.ipynb) | Reproduce the **Standard RNN** MNIST analysis (slow) |
 | [Run spike train analysis](./RRN_Simulated.ipynb) | Reproduce spike train analysis all methods (slow) + paper figures (fast) |
 
 These notebooks call helper functions (`.py` files) in this repository.
